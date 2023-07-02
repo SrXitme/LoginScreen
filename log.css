@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'Nexa';
+  src: url('NexaLight.otf') format('truetype');
+}
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Nexa',Sans-Serif;
+    
+}
+header{
+    background-color: white;
+    color: #5b1677;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-color: #fff;
+}
+main{
+    width: 60%;
+    margin: auto;
+    
+}
+div{
+    margin-top: 20%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.3);
+    
+
+}
+input{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    margin: 0px;
+    margin-left: 5px;
+}
+button{
+    width: 120px;
+    padding: 10px;
+    color: white;
+    font-family: 'Neur',Sans-Serif;
+    font-size: 1em;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+h1{
+    padding: 10px;
+    font-weight: bold;
+    color: black;
+}
+.imgIcon{
+    width: 50px;
+    height: 50px;
+}
+.itm{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+.inIcon{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: -17px;
+}
+.input{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    border-radius:10px;
+    outline: none;
+    border: 2px gray solid;
+    height: 2px;
+ 
+}
+p{
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: -40px;
+}
+
+    
+    
+    
+
+.esq{
+   ;
+   text-align: center;
+   text-decoration: none;
+   padding: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: blue
+}
